@@ -1,0 +1,7 @@
+.venv/
+upload/
+*.pyc
+__pycache__
+pylama.ini
+settings-devel.py
+db.sqlite3
